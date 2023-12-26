@@ -1,6 +1,5 @@
 # Hi there, I'm Aster o7
 
-Welcome to my GitHub profile!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=catasterphe&show_icons=true&theme=onedark">
 </p>
