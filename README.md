@@ -21,9 +21,6 @@ I am a transgender programmer 🏳️‍⚧️, currently learning the world of 
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: 🍕 Pizza!
 
-Feel free to look around my repositories and don't hesitate to reach out!  
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=catasterphe&show_icons=true&theme=onedark">
 </p>
