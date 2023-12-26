@@ -1,6 +1,9 @@
 # Hi there, I'm Aster o7
 
 Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=catasterphe&show_icons=true&theme=onedark">
+</p>
 
 ## About Me
 
@@ -20,9 +23,3 @@ I am a transgender programmer 🏳️‍⚧️, currently learning the world of 
   - [Discord](https://dc.aaro.dev/109092873860808704)  
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: 🍕 Pizza!
-
-    
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=catasterphe&show_icons=true&theme=onedark">
-</p>
-
