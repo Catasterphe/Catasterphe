@@ -22,5 +22,7 @@ I am a transgender programmer 🏳️‍⚧️, currently learning the world of 
 - ⚡ Fun fact: 🍕 Pizza!
 
 <p align="center">
+  <h2>My Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=catasterphe&show_icons=true&theme=onedark">
 </p>
+
