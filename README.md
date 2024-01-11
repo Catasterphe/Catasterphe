@@ -6,13 +6,13 @@
 
 ## About Me
 
-I am a transgender programmer 🏳️‍⚧️, currently learning the world of C#. My journey in programming started with Lua, specifically in Roblox Studio. Programming is like an adventure, especially when I'm figuring out how to fix things when they go wrong (Probably just missing a semicolon). I love playing games and learning how they work!
+I am a transgender programmer 🏳️‍⚧️, exploring C#, learning C++, etc. whatever they say developers do? I started with Lua, specifically in Roblox Studio, funny. right? Programming errors are like a horror story, until you realize you're just missing a semicolon.
 
 ## Current Endeavors
 
 - 🔭 Honing my C# skills by developing game plugins using [Harmony](https://github.com/pardeike/Harmony)
-- 🌱 Enjoying outdoor activities (touching grass) and quality time with my friends.
-- 👯 Open to collaborating on projects, especially those that are beginner-friendly or related to game development.
+- 🎺 I play the ~~Baritone~~ ~~Mini Tuba~~ **Euphonium**. Participating in community band ^-^ 
+- 👯 Open to collaborating on projects, feel free to contact me.
 
 ## Connect with Me
 
