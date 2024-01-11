@@ -6,12 +6,13 @@
 
 ## About Me
 
-I am a transgender programmer 🏳️‍⚧️, exploring C#, learning C++, etc. whatever they say developers do? I started with Lua, specifically in Roblox Studio, funny. right? Programming errors are like a horror story, until you realize you're just missing a semicolon.
+I am a transgender programmer 🏳️‍⚧️, and my pronouns are [she/they](https://en.pronouns.page/she%26they) exploring C#, learning C++, etc. whatever they say developers do? I started with Lua, specifically in Roblox Studio, funny. right? Programming errors are like my own little horror story, until I realize my code is just missing a semicolon.
 
 ## Current Endeavors
 
-- 🔭 Honing my C# skills by developing game plugins using [Harmony](https://github.com/pardeike/Harmony)
-- 🎺 I play the ~~Baritone~~ ~~Mini Tuba~~ **Euphonium**. Participating in community band ^-^ 
+- 🔭 
+- 🎺 I play the ~~Baritone~~ ~~Mini Tuba~~ **Euphonium**. Participating in community band ^-^
+  - Interested in the [current band repetoire](https://open.spotify.com/playlist/0eurDNtscMdyMhmb8VoM84?si=50a98d8b389b4d25)? 
 - 👯 Open to collaborating on projects, feel free to contact me.
 
 ## Connect with Me
@@ -21,4 +22,4 @@ I am a transgender programmer 🏳️‍⚧️, exploring C#, learning C++, etc.
   - [Email](mailto:me@aster.lol?subject=[GitHub]%20Hey%20There)
   - [Discord](https://dc.aaro.dev/109092873860808704)  
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: 🍕 Pizza!
+- ⚡ Fun fact: I'm probably running solely off spite and monster energy \^.^/
