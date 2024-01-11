@@ -10,7 +10,7 @@ I am a transgender programmer 🏳️‍⚧️, and my pronouns are [she/they](h
 
 ## Current Endeavors
 
-- 🔭 
+- 🔭 Not really working on any projects specifically at the moment.
 - 🎺 I play the ~~Baritone~~ ~~Mini Tuba~~ **Euphonium**. Participating in community band ^-^
   - Interested in the [current band repetoire](https://open.spotify.com/playlist/0eurDNtscMdyMhmb8VoM84?si=50a98d8b389b4d25)? 
 - 👯 Open to collaborating on projects, feel free to contact me.
