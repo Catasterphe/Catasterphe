@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a transgender programmer 🏳️‍⚧️, and my pronouns are [she/they](https://en.pronouns.page/she%26they). exploring C#, learning C++, etc. whatever they say developers do? I started with Lua, specifically in Roblox Studio, funny. right? Programming errors are like my own little horror story, until I realize my code is just missing a semicolon.
+I am a transgender programmer 🏳️‍⚧️, and my pronouns are [she/they](https://en.pronouns.page/she%26they). exploring C#, learning [Go](https://go.dev/), etc. whatever they say developers do? I started with Lua, specifically in Roblox Studio, and fell in love with the concept of Programming and solving problems. Errors are like a short horror story, until I realize my code is just missing a semicolon.
 
 ## Current Endeavors
 
