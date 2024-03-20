@@ -1,11 +1,8 @@
-# Hi there, I'm Aster o7
+# Hi there, I'm Aster o7 <a href="https://www.codewars.com/users/UVAster/"><img src="https://www.codewars.com/users/UVAster/badges/micro"></a>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=catasterphe&show_icons=true&theme=onedark">
-</p>
-
-<p align="center">
-  <a href="https://www.codewars.com/users/UVAster/"><img src="https://www.codewars.com/users/UVAster/badges/large"></a>
 </p>
 
 ## About Me
