@@ -4,6 +4,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=catasterphe&show_icons=true&theme=onedark">
 </p>
 
+<p align="center">
+  <a href="https://www.codewars.com/users/UVAster/"><img src="https://www.codewars.com/users/UVAster/badges/large"></a>
+</p>
+
 ## About Me
 
 I am a transgender programmer 🏳️‍⚧️, and my pronouns are [she/they](https://en.pronouns.page/she%26they). exploring C#, learning [Go](https://go.dev/), etc. whatever they say developers do? I started with Lua, specifically in Roblox Studio, and fell in love with the concept of Programming and solving problems. Errors are like a short horror story, until I realize my code is just missing a semicolon.
