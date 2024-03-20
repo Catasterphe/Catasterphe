@@ -1,6 +1,9 @@
-# Hi there, I'm Aster o7 <a href="https://www.codewars.com/users/UVAster/"><img src="https://www.codewars.com/users/UVAster/badges/micro"></a>
+# Hi there, I'm Aster o7
 
 
+<p align="center">
+  <a href="https://www.codewars.com/users/UVAster/"><img src="https://www.codewars.com/users/UVAster/badges/large"></a>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=catasterphe&show_icons=true&theme=onedark">
 </p>
@@ -20,7 +23,7 @@ I am a transgender programmer 🏳️‍⚧️, and my pronouns are [she/they](h
 
 - 💬 Feel free to add me just to talk if you want to :)
 - 📫 How to reach me:
-  - [Email](mailto:me@aster.lol?subject=[GitHub]%20Hey%20There)
+  - [Email](mailto:me@aster.lol?subject=[GitHub]%20Hello,%20World!)
   - [Discord](https://dc.aaro.dev/109092873860808704)  
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I'm probably running solely off spite and monster energy \\(^.^)/
