@@ -24,6 +24,6 @@ I am a transgender programmer 🏳️‍⚧️, and my pronouns are [she/they](h
 - 💬 Feel free to add me just to talk if you want to :)
 - 📫 How to reach me:
   - [Email](mailto:me@aster.lol?subject=[GitHub]%20Hello,%20World!)
-  - [Discord](https://dc.aaro.dev/109092873860808704)  
+  - [Discord **Temporarily Disabled**](https://dc.aaro.dev/109092873860808704)  
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I'm probably running solely off spite and monster energy \\(^.^)/
