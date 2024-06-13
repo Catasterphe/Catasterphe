@@ -1,6 +1,6 @@
 # Hi there, I'm Aster o7 <a target="_blank" href="https://www.codewars.com/users/UVAster/"><img src="https://www.codewars.com/users/UVAster/badges/micro"></a>
 
-I am a transgender programmer 🏳️‍⚧️, and my pronouns are [she/they](https://en.pronouns.page/she%26they). Doing whatever they say developers do? I started with Lua, specifically in Roblox Studio, and fell in love with the concept of Programming and solving problems. All of my personal code is going to be open sourced and licensed under either [Unilicense](https://unlicense.org/) or [a GNU License](www.gnu.org/licenses/)
+I am a transgender programmer 🏳️‍⚧️, and my pronouns are [she/they](https://en.pronouns.page/she%26they). Doing whatever they say developers do? I started with Lua, specifically in Roblox Studio, and fell in love with the concept of Programming and solving problems. All of my personal code is going to be open sourced and licensed under either [Unlicense](https://unlicense.org/) or [a GNU License](www.gnu.org/licenses/)
 
 
 <p align="center">
