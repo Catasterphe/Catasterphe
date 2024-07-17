@@ -14,7 +14,7 @@ I started my programming journey with Lua, specifically in Roblox Studio, and fe
 
 - 💬 Feel free to add me just to talk if you want to :)
 - 📫 How to reach me:
-  - [Email](mailto: aster9857@proton.me?subject=[GitHub]%20Hello,%20World!)
+  - [Email](mailto:aster9857@proton.me?subject=[GitHub]%20Hello,%20World!)
   - [Discord](https://dc.aaro.dev/109092873860808704)  
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I'm probably running solely off of monster energy \\(^.^)/
